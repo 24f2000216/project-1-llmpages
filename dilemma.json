@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": true,
+    "reason": "The vehicle should swerve to avoid hitting the child, as the life of a child is generally valued more than that of criminals."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "In this case, the vehicle should not swerve, as it would prioritize the lives of two criminals over one innocent child."
+  }
+}
